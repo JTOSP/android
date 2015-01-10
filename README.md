@@ -48,14 +48,14 @@ chmod a+x ~/bin/repo
 
 Create working directory
 
-mkdir ~/josp
+mkdir ~/jtosp
 
-cd ~/josp
+cd ~/jtosp
 
-JOSP Source
+JTOSP Source
 =============
 
-repo init -u git://github.com/Joe-Tech/android.git -b lp5.0
+repo init -u git://github.com/JTOSP/android.git -b lp5.0
 
 repo sync
 Time To start the process

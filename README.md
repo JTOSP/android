@@ -66,7 +66,7 @@ Step 3 Extract Proprietary Blobs
 You will need to download a ROM.zip for your device
 Then make a folder on your home directory, rename it to original, then extract the ROM zip to that folder
 now go on terminal and type the following code with your device name.
-cd ~/josp/device/manifacturer/your device code
+cd ~/jtosp/device/manifacturer/your device code
 
 ./extract-files.sh ~/original
 
